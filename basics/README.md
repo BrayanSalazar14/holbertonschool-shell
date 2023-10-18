@@ -16,4 +16,6 @@ Shell Basic
 
 7-movethatfile: Script que mueve archivo betty a directorio especificado
 
-8-firstdelete: Script que elimina el archivo betty en directorio especificado 
+8-firstdelete: Script que elimina el archivo betty en directorio especificado
+
+9-firstdirdeletion: Script que elimina un directorio especificado 
