@@ -10,4 +10,6 @@ Shell Basic
 
 4-listmorefiles: Script que muestra el contenido del directorio actual incluyendo los ocultos en un formato largo
 
-5-listfilesdigitonly: Script que muesta el contenido del directorio en un formato largo, ID de user y grupo numericamente y archivos ocultos 
+5-listfilesdigitonly: Script que muesta el contenido del directorio en un formato largo, ID de user y grupo numericamente y archivos ocultos
+
+6-firstdirectory: Script que crea un directorio en otro directorio. 
