@@ -1,2 +1,4 @@
 Shell Basic
-1.0-current_working_directory: Muestra directorio actual 
+
+0-current_working_directory: Muestra directorio actual
+1-listit: Script que muestra la lista de contenidos en el directorio actual 
