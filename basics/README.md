@@ -22,4 +22,6 @@ Shell Basic
 
 10-back: Script que cambia del directorio actual al anterios que estabas
 
-11-lists: Script que lista archivos de carpeta actual, padre y /boot formato lago y archivos ocultos 
+11-lists: Script que lista archivos de carpeta actual, padre y /boot formato lago y archivos ocultos
+
+12-file_type: Script que imprime el tipo de archivo 
