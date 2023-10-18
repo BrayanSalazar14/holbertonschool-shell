@@ -14,4 +14,6 @@ Shell Basic
 
 6-firstdirectory: Script que crea un directorio en otro directorio.
 
-7-movethatfile: Script que mueve archivo betty a directorio especificado 
+7-movethatfile: Script que mueve archivo betty a directorio especificado
+
+8-firstdelete: Script que elimina el archivo betty en directorio especificado 
