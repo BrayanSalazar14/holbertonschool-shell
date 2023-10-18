@@ -20,4 +20,6 @@ Shell Basic
 
 9-firstdirdeletion: Script que elimina un directorio especificado
 
-10-back: Script que cambia del directorio actual al anterios que estabas 
+10-back: Script que cambia del directorio actual al anterios que estabas
+
+11-lists: Script que lista archivos de carpeta actual, padre y /boot formato lago y archivos ocultos 
