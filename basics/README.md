@@ -8,4 +8,6 @@ Shell Basic
 
 3-listfiles: Script muestra el contenido del directorio actual en un formato largo
 
-4-listmorefiles: Script que muestra el contenido del directorio actual incluyendo los ocultos en un formato largo 
+4-listmorefiles: Script que muestra el contenido del directorio actual incluyendo los ocultos en un formato largo
+
+5-listfilesdigitonly: Script que muesta el contenido del directorio en un formato largo, ID de user y grupo numericamente y archivos ocultos 
