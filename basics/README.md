@@ -27,3 +27,5 @@ Shell Basic
 12-file_type: Script que imprime el tipo de archivo
 
 13-symbolic_link: Script el cual crea Symbolic_link - "Un acceso directo"
+
+14-copy_html: Script el cual copia todos los archivos con extensión HTML al directorio principal
