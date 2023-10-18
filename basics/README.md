@@ -18,4 +18,6 @@ Shell Basic
 
 8-firstdelete: Script que elimina el archivo betty en directorio especificado
 
-9-firstdirdeletion: Script que elimina un directorio especificado 
+9-firstdirdeletion: Script que elimina un directorio especificado
+
+10-back: Script que cambia del directorio actual al anterios que estabas 
