@@ -24,4 +24,6 @@ Shell Basic
 
 11-lists: Script que lista archivos de carpeta actual, padre y /boot formato lago y archivos ocultos
 
-12-file_type: Script que imprime el tipo de archivo 
+12-file_type: Script que imprime el tipo de archivo
+
+13-symbolic_link: Script el cual crea Symbolic_link - "Un acceso directo"
