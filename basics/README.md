@@ -12,4 +12,6 @@ Shell Basic
 
 5-listfilesdigitonly: Script que muesta el contenido del directorio en un formato largo, ID de user y grupo numericamente y archivos ocultos
 
-6-firstdirectory: Script que crea un directorio en otro directorio. 
+6-firstdirectory: Script que crea un directorio en otro directorio.
+
+7-movethatfile: Script que mueve archivo betty a directorio especificado 
