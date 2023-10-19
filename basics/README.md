@@ -31,3 +31,5 @@ Shell Basic
 14-copy_html: Script el cual copia todos los archivos con extensión HTML al directorio principal
 
 15-lets_move: Script que moverá todos los archivos que comiencen en mayuscula al directorio especificado
+
+16-clean_emacs: Se crea script que elimine todos los archivos que terminan ~ en directorio de trabajo actual
