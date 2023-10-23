@@ -33,3 +33,5 @@
 14-change_owner_and_group: Cambia el propietario y el grupo por vincent y staff para todos los archivos del directorio actual
 
 15-symbolic_link_permissions: Cambia la propiedad y el grupo de un enlace simbolico
+
+16-if_only: Cambia el prpietario del archivo hello a vincent solo si es propiedad del usuario guillaume
