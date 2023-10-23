@@ -31,3 +31,5 @@
 13-change_group: Cambia el propietario del grupo a School para el archivo Hello
 
 14-change_owner_and_group: Cambia el propietario y el grupo por vincent y staff para todos los archivos del directorio actual
+
+15-symbolic_link_permissions: Cambia la propiedad y el grupo de un enlace simbolico
