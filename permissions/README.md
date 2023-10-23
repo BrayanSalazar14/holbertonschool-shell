@@ -15,3 +15,5 @@
 5-execute: Añade permisos de ejecución al archivo hello
 
 6-multiple_permissions: Agrega permisos de ejecución al propietario y al propietario de grupo, y permisos de lecturas a otros usuarios en el archivo hello
+
+7-everybody: Agrega permiso de ejecución al propietario, al propietario del grupo y a los demás usuarios en el archivo hello
