@@ -34,8 +34,4 @@ Shell Basic
 
 16-clean_emacs: Script que elimine todos los archivos que terminan ~ en directorio de trabajo actual
 
-17-tree: Script que creará un directorio con subdirectorios especificados
-
-*Shell Permissions*
-
-0-iam_betty: Script que cambia usuario 
+17-tree: Script que creará un directorio con subdirectorios especificados 
