@@ -21,3 +21,5 @@
 8-James_Bond: Propietario: Sin ningún permiso, Grupo: Sin permiso absoluto, Otros usuarios: Todos los permisos
 
 9-John_Doe: Agrega permisos de ejecucion al propietario, grupo y quita permisos de lectura y agrega permisos de ejecucion y escritura para los otros usuarios
+
+10-mirror_permissions: Usa referencia a olleh para asignar los permisos a hello
