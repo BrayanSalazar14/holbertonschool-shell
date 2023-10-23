@@ -25,3 +25,5 @@
 10-mirror_permissions: Usa referencia a olleh para asignar los permisos a hello
 
 11-directories_permissions: Cambia los permisos de los subdirectorios del directorio actual
+
+12-directory_permissions: Crea una carpeta llamada my_dir y se le asigna los permisos 751
