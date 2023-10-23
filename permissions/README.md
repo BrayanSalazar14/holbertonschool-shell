@@ -19,3 +19,5 @@
 7-everybody: Agrega permiso de ejecución al propietario, al propietario del grupo y a los demás usuarios en el archivo hello
 
 8-James_Bond: Propietario: Sin ningún permiso, Grupo: Sin permiso absoluto, Otros usuarios: Todos los permisos
+
+9-John_Doe: Agrega permisos de ejecucion al propietario, grupo y quita permisos de lectura y agrega permisos de ejecucion y escritura para los otros usuarios
