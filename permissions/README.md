@@ -17,3 +17,5 @@
 6-multiple_permissions: Agrega permisos de ejecución al propietario y al propietario de grupo, y permisos de lecturas a otros usuarios en el archivo hello
 
 7-everybody: Agrega permiso de ejecución al propietario, al propietario del grupo y a los demás usuarios en el archivo hello
+
+8-James_Bond: Propietario: Sin ningún permiso, Grupo: Sin permiso absoluto, Otros usuarios: Todos los permisos
