@@ -27,3 +27,5 @@
 11-directories_permissions: Cambia los permisos de los subdirectorios del directorio actual
 
 12-directory_permissions: Crea una carpeta llamada my_dir y se le asigna los permisos 751
+
+13-change_group: Cambia el propietario del grupo a School para el archivo Hello
