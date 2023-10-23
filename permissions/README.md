@@ -23,3 +23,5 @@
 9-John_Doe: Agrega permisos de ejecucion al propietario, grupo y quita permisos de lectura y agrega permisos de ejecucion y escritura para los otros usuarios
 
 10-mirror_permissions: Usa referencia a olleh para asignar los permisos a hello
+
+11-directories_permissions: Cambia los permisos de los subdirectorios del directorio actual
