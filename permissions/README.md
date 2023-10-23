@@ -13,3 +13,5 @@
 4-empty: Crea un archivo vacio llamado hello
 
 5-execute: Añade permisos de ejecución al archivo hello
+
+6-multiple_permissions: Agrega permisos de ejecución al propietario y al propietario de grupo, y permisos de lecturas a otros usuarios en el archivo hello
