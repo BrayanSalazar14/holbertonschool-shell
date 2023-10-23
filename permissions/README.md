@@ -11,3 +11,5 @@
 3-new_owner: Cambia de propietario del archivo HOLA a Betty
 
 4-empty: Crea un archivo vacio llamado hello
+
+5-execute: Añade permisos de ejecución al archivo hello
