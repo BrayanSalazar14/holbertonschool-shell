@@ -29,3 +29,5 @@
 12-directory_permissions: Crea una carpeta llamada my_dir y se le asigna los permisos 751
 
 13-change_group: Cambia el propietario del grupo a School para el archivo Hello
+
+14-change_owner_and_group: Cambia el propietario y el grupo por vincent y staff para todos los archivos del directorio actual
