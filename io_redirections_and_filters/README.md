@@ -7,3 +7,5 @@
 2-hellofile: Muestra el contenido en otro plano de /etc/passwd
 
 3-twofiles: Imprime el contenido de dos archivos, en este caso /etc/passwd y /etc/hosts
+
+4-lastlines: Imprime las ultimas 10 lineas de /etc/passwd
