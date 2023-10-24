@@ -14,4 +14,6 @@
 
 6-third_line: Muestra la tercera linea de un archivo
 
-7-file: Script que crea una carpeta con contenido 
+7-file: Script que crea una carpeta con contenido
+
+8-cwd_state: Crea un archivo el cual el contenido imprime el listado de archivo del directorio actual 
