@@ -16,4 +16,6 @@
 
 7-file: Script que crea una carpeta con contenido
 
-8-cwd_state: Crea un archivo el cual el contenido imprime el listado de archivo del directorio actual 
+8-cwd_state: Crea un archivo el cual el contenido imprime el listado de archivo del directorio actual
+
+9-duplicate_last_line: Duplica la ultima linea del archivo llamado iacta 
