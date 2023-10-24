@@ -9,3 +9,5 @@
 3-twofiles: Imprime el contenido de dos archivos, en este caso /etc/passwd y /etc/hosts
 
 4-lastlines: Imprime las ultimas 10 lineas de /etc/passwd
+
+5-firstlines: Imprime las primeras 10 lineas de /etc/passwd
