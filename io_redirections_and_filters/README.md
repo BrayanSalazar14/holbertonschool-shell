@@ -5,3 +5,5 @@
 1-confused_smiley: Muestra un emoticón confuso con  \ ---> escapa de caracteres especiales
 
 2-hellofile: Muestra el contenido en otro plano de /etc/passwd
+
+3-twofiles: Imprime el contenido de dos archivos, en este caso /etc/passwd y /etc/hosts
