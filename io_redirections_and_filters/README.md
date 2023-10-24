@@ -13,3 +13,5 @@
 5-firstlines: Imprime las primeras 10 lineas de /etc/passwd
 
 6-third_line: Muestra la tercera linea de un archivo
+
+7-file: Script que crea una carpeta con contenido 
