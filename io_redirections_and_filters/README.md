@@ -20,4 +20,6 @@
 
 9-duplicate_last_line: Duplica la ultima linea del archivo llamado iacta
 
-10-no_more_js: Elimina todos los archivos con extension ".js" del directorio actual y sus subcarpetas 
+10-no_more_js: Elimina todos los archivos con extension ".js" del directorio actual y sus subcarpetas
+
+11-directories: Cuente el número de directorios y subdirectorios en el directorio actual hasta los ocultos 
