@@ -39,3 +39,5 @@
 18-letteronly: Muestra todas las líneas del archivo /etc/ssh/sshd_config comenzando con una letra.
 
 19-AZ: Reemplace todos los caracteres A y c de la entrada a Z y e respectivamente.
+
+20-hiago: Cree un script que elimine todas las letras c y C de la entrada.
