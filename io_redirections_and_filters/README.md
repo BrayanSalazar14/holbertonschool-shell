@@ -26,4 +26,6 @@
 
 12-newest_files: Muestra los 10 archivos más nuevos en el directorio actual
 
-13-unique: Toma una lista de palabras y imprime solo las que aparecen exactamente una vez 
+13-unique: Toma una lista de palabras y imprime solo las que aparecen exactamente una vez
+
+14-findthatword: Muestra líneas que contienen el patrón "root" del archivo /etc/passwd 
