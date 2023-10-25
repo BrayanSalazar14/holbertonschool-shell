@@ -31,3 +31,5 @@
 14-findthatword: Muestra líneas que contienen el patrón "root" del archivo /etc/passwd 
 
 15-countthatword: Muestra el número de líneas que contiene que contiene el patrón "bin" en el archivo /etc/passwd
+
+16-whatsnext: Muestra líneas que contiene el patrón "root" y 3 líneas después de ellas en el archivo /etc/passwd
