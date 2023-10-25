@@ -24,4 +24,6 @@
 
 11-directories: Cuente el número de directorios y subdirectorios en el directorio actual hasta los ocultos
 
-12-newest_files: Muestra los 10 archivos más nuevos en el directorio actual 
+12-newest_files: Muestra los 10 archivos más nuevos en el directorio actual
+
+13-unique: Toma una lista de palabras y imprime solo las que aparecen exactamente una vez 
