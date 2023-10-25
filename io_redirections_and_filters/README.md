@@ -22,4 +22,6 @@
 
 10-no_more_js: Elimina todos los archivos con extension ".js" del directorio actual y sus subcarpetas
 
-11-directories: Cuente el número de directorios y subdirectorios en el directorio actual hasta los ocultos 
+11-directories: Cuente el número de directorios y subdirectorios en el directorio actual hasta los ocultos
+
+12-newest_files: Muestra los 10 archivos más nuevos en el directorio actual 
