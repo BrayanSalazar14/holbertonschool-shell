@@ -29,3 +29,5 @@
 13-unique: Toma una lista de palabras y imprime solo las que aparecen exactamente una vez
 
 14-findthatword: Muestra líneas que contienen el patrón "root" del archivo /etc/passwd 
+
+15-countthatword: Muestra el número de líneas que contiene que contiene el patrón "bin" en el archivo /etc/passwd
