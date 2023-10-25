@@ -18,4 +18,6 @@
 
 8-cwd_state: Crea un archivo el cual el contenido imprime el listado de archivo del directorio actual
 
-9-duplicate_last_line: Duplica la ultima linea del archivo llamado iacta 
+9-duplicate_last_line: Duplica la ultima linea del archivo llamado iacta
+
+10-no_more_js: Elimina todos los archivos con extension ".js" del directorio actual y sus subcarpetas 
