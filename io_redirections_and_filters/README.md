@@ -43,3 +43,5 @@
 20-hiago: Cree un script que elimine todas las letras c y C de la entrada.
 
 21-reverse: Reversa la entrada que le demos
+
+22-users_and_homes: Muestre todos los usuarios y sus directorios de inicio, ordenados por usuarios.
