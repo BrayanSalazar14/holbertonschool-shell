@@ -41,3 +41,5 @@
 19-AZ: Reemplace todos los caracteres A y c de la entrada a Z y e respectivamente.
 
 20-hiago: Cree un script que elimine todas las letras c y C de la entrada.
+
+21-reverse: Reversa la entrada que le demos
